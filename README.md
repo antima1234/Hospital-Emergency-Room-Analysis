@@ -211,10 +211,12 @@ hospital-er-analysis/
 ---
 
 ## 👤 Author & Contact 
-Name:     Antima Pandey
-Email:    antimapandey600@gmail.com
-Linkdin:  https://github.com/antima1234
-Github:   https://github.com/antima1234
+Name:       Antima Pandey
+Email:      antimapandey600@gmail.com
+Linkdin:    https://github.com/antima1234
+Github:     https://github.com/antima1234
+Portfolio:  https://www.canva.com/design/DAHSV6z5T-s/PkTHPNwYl9euR6P1wi5Zaw/edit
+
 
 Built as a portfolio project demonstrating end-to-end Excel data analysis: data generation/
 cleaning documentation, formula engineering, pivot-style reporting, dashboard design, and
